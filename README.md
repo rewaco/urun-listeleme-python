@@ -1,1 +1,2 @@
-# -r-n-listeleme-python
+python ile ürün listeleme arayüzü 
+kurulum gerektirmez
